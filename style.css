@@ -24,11 +24,11 @@ body {
     font-size: 16px;
 }
 
-.escola-imagem{
+.produção-imagem{
     width: 25%;
 }
 
-.escola{
+.produção{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -37,22 +37,25 @@ body {
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.produção-div-conteudo{
     width: 35%;
 }
 
 
-.escola-titulo{
+.produção-titulo{
     padding: 24px 0;
 }
 
-.estudante{
+.produção{
     padding: 24px 0;
 }
-.estudante-imagem{
+.produção-imagem{
     width: 120px;
 }
 
-.estudante-icone{
+.produção-icone{
     width: 24px;
+    padding: 4px 8px
 }
+
+.produção-div
